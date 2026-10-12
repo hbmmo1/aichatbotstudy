@@ -1,0 +1,27 @@
+app:
+  allow_general_chat: true
+  auto_reaction: true
+  auto_reply: true
+  reply_delay_seconds: 2.5
+gemini:
+  allow_general_chat: true
+  api_key: AIzaSyDAC3R0AwvYZGEcpWicsvU913GK_Orj79M
+  model_name: gemini-3.6-flash
+  temperature: 0.4
+  top_p: 0.95
+google_drive:
+  credentials_file: config/service_account.json
+  default_role: reader
+  enabled: false
+hotkeys:
+  broadcast_cancel: f7
+  broadcast_pause_resume: f6
+  manual_override: ctrl+space
+  pause_bot: f9
+  resume_bot: f10
+  start_bot: f8
+telegram:
+  bot_token: YOUR_TELEGRAM_BOT_TOKEN
+  chat_id: YOUR_TELEGRAM_CHAT_ID
+  enabled: false
+  escalation_threshold: 3

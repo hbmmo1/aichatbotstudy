@@ -1,0 +1,26 @@
+# Thư viện AI & Google GenAI (Tương thích Python 3.12)
+google-genai>=1.0.0
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.0
+pillow>=10.2.0
+
+# Tự động hóa Giao diện & Windows Automation (Max 5 Retries, Hỗ trợ Python 3.12)
+pyautogui>=0.9.54
+pyperclip>=1.8.2
+pywin32>=306
+pygetwindow>=0.0.9
+pynput>=1.7.6
+keyboard>=0.13.5
+customtkinter>=5.2.0
+
+# Mạng & Xử lý bất đồng bộ
+requests>=2.31.0
+httpx>=0.27.0
+aiohttp>=3.9.0
+pyyaml>=6.0.1
+python-dotenv>=1.0.0
+
+# Dữ liệu & Tiện ích
+tabulate>=0.9.0
+

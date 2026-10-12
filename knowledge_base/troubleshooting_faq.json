@@ -1,0 +1,104 @@
+{
+  "troubleshooting_rules": [
+    {
+      "id": "download_stuck_slow_network",
+      "keywords": ["không tải được", "tải bị lỗi", "tải đứng im", "đang tải thì dừng", "mạng yếu", "tải chậm", "lỗi mạng"],
+      "issue_name": "Lỗi tải dở dang do mạng yếu hoặc file video/AI nặng",
+      "instruction": "File giáo án tích hợp video chất lượng cao và AI nên dung lượng khá lớn (100MB - 200MB+). Hướng dẫn thầy/cô bấm phím tắt Ctrl + J trên bàn phím (hoặc biểu tượng mũi tên góc phải trên trình duyệt) để mở bảng tải xuống, sau đó bấm nút 'Tiếp tục' (Resume). Khuyên thầy/cô nên bấm tải từng file một để đường truyền ổn định nhất.",
+      "sample_reply": [
+        "Dạ do bộ giáo án tích hợp video và bài giảng sinh động nên dung lượng khá lớn (hơn 100MB) ạ. Thầy/Cô bấm phím tắt Ctrl + J trên bàn phím (hoặc bấm vào hình mũi tên tải xuống ở góc trên bên phải trình duyệt) giúp em nhé 😊",
+        "Trong danh sách tải xuống, Thầy/Cô chỉ cần bấm vào nút 'Tiếp tục' (Resume) là file sẽ tải tiếp ạ. Thầy/Cô nên tải lần lượt từng file một để mạng ổn định nhất nha!"
+      ]
+    },
+    {
+      "id": "browser_block_multiple_downloads",
+      "keywords": ["thiếu file", "tải không đủ file", "tải hàng loạt bị thiếu", "không thấy các file sau", "bị mất file"],
+      "issue_name": "Trình duyệt chặn tải xuống nhiều tệp cùng lúc",
+      "instruction": "Khi bấm tải nhiều file, trình duyệt Google Chrome hoặc Cốc Cốc sẽ hiện thông báo hỏi 'Cho phép trang web tải xuống nhiều tệp?'. Hướng dẫn thầy/cô nhìn góc trên bên phải thanh địa chỉ và bấm nút 'Cho phép' (Allow).",
+      "sample_reply": [
+        "Dạ khi Thầy/Cô bấm tải nhiều file một lúc, trình duyệt sẽ có một ô nhỏ hỏi 'Cho phép tải xuống nhiều tệp' ở góc trên bên phải màn hình ạ.",
+        "Thầy/Cô bấm chọn nút 'Cho phép' (Allow) giúp em là các file còn lại sẽ tự động tải về đầy đủ ngay ạ! ✨"
+      ]
+    },
+    {
+      "id": "disk_full_drive_c",
+      "keywords": ["ổ đĩa đầy", "ổ C đầy", "không đủ dung lượng", "lưu sang ổ khác", "không biết lưu ở đâu", "tải về không thấy đâu"],
+      "issue_name": "Ổ đĩa C bị đầy và hướng dẫn chọn ổ D/E để lưu file",
+      "instruction": "Ổ C mặc định bị đầy khiến file tải về báo lỗi. Hướng dẫn thầy/cô cách bấm chuột phải vào link tải -> chọn 'Lưu liên kết thành...' (Save link as) -> chọn ổ D: hoặc E: để lưu. Sau đó hướng dẫn mở 'This PC' vào ổ D/E để xem file.",
+      "sample_reply": [
+        "Dạ máy báo lỗi này là do ổ C (mặc định) của Thầy/Cô đang bị đầy dung lượng ạ. Thầy/Cô làm theo cách này giúp em nhé:",
+        "Thầy/Cô bấm chuột phải vào link tải -> chọn 'Lưu liên kết thành...' (Save link as) -> chọn ổ D hoặc E rồi bấm Lưu ạ. Tải xong Thầy/Cô vào ổ D hoặc E là thấy trọn bộ giáo án ngay ạ 😊"
+      ]
+    },
+    {
+      "id": "open_pptx_online_error",
+      "keywords": ["mở file lỗi", "mở trên drive không được", "xem online bị lỗi", "bị đơ khi mở", "file nặng không mở được"],
+      "issue_name": "Mở file PowerPoint nặng trực tiếp trên trình duyệt bị lỗi",
+      "instruction": "File PowerPoint nặng từ 100MB - 200MB không thể xem mượt mà trên Google Drive hoặc Office Online. Cần tải hẳn về máy tính và mở bằng phần mềm PowerPoint trên máy.",
+      "sample_reply": [
+        "Dạ vì file slide PowerPoint này tích hợp nhiều hiệu ứng và video bài giảng nên nặng hơn 100MB, trình duyệt xem online sẽ không tải nổi và báo lỗi ạ.",
+        "Thầy/Cô bấm nút 'Tải xuống' (Download) về máy tính, sau đó mở trực tiếp bằng phần mềm PowerPoint trên máy là chạy mượt mà và chiếu dạy rất đẹp ạ! 🖥️"
+      ]
+    },
+    {
+      "id": "enable_editing_protected_view",
+      "keywords": ["không sửa được", "bị khóa không gõ được chữ", "không bấm được vào chữ", "bị mờ nút sửa", "thanh màu vàng", "protected view", "enable editing"],
+      "issue_name": "Chế độ Protected View của Word/PowerPoint khóa chỉnh sửa",
+      "instruction": "Khi mở file tải từ mạng về, Word/PowerPoint sẽ hiện thanh màu vàng 'Protected View'. Hướng dẫn bấm nút 'Enable Editing' hoặc 'Bật tính năng chỉnh sửa'.",
+      "sample_reply": [
+        "Dạ đây là tính năng bảo vệ mặc định của phần mềm Office khi mở file tải từ mạng về ạ. Thầy/Cô nhìn lên phía trên thanh công cụ sẽ thấy một thanh thông báo màu vàng:",
+        "Thầy/Cô chỉ cần bấm vào nút 'Enable Editing' (hoặc 'Bật tính năng chỉnh sửa') màu xám bên cạnh là có thể thoải mái chỉnh sửa, thêm bớt chữ theo ý mình rồi ạ! ✍️"
+      ]
+    },
+    {
+      "id": "remove_watermark_header_footer",
+      "keywords": ["xóa số điện thoại", "xóa quảng cáo", "xóa sđt", "sửa thông tin dưới chân trang", "xóa slide quảng cáo", "xóa header footer", "đổi tên người soạn"],
+      "issue_name": "Hướng dẫn xóa số điện thoại, thông tin liên hệ ở Header/Footer và Slide Master",
+      "instruction": "Hướng dẫn thầy/cô vào thẻ View -> chọn Slide Master để xóa số điện thoại hoặc logo ở trang chủ, hoặc vào Insert -> Header & Footer để xóa chân trang.",
+      "sample_reply": [
+        "Dạ để xóa số điện thoại hoặc thông tin giới thiệu, Thầy/Cô làm như sau cực kỳ nhanh ạ:",
+        "1. Trên thanh menu PowerPoint, Thầy/Cô bấm vào thẻ 'View' -> chọn 'Slide Master'.\n2. Bấm vào trang slide đầu tiên trên cùng, chọn khung chữ số điện thoại rồi bấm phím 'Delete' để xóa.\n3. Sau đó bấm 'Close Master View' là toàn bộ slide sẽ sạch sẽ theo ý Thầy/Cô ạ! ✨"
+      ]
+    },
+    {
+      "id": "locked_shapes_under_update",
+      "keywords": ["không sửa được hình", "hình khối bị khóa", "không đổi được icon", "hình nhỏ không bấm được"],
+      "issue_name": "Hình khối/icon đang được tối ưu hóa đồ họa (Nói khéo léo)",
+      "instruction": "Nói khéo léo và lịch sự rằng các chi tiết đồ họa này được cố định định dạng chuẩn để không bị lệch bố cục khi trình chiếu trên máy chiếu trường học, bên em đang tối ưu bản cập nhật tiếp theo để thầy/cô tùy biến.",
+      "sample_reply": [
+        "Dạ phần hình khối minh họa này bên em đang khóa định dạng chuẩn để tránh bị xô lệch font chữ và vỡ khung khi thầy/cô cắm máy chiếu ở trường ạ 😊",
+        "Bên em đã ghi nhận và đang tối ưu bản cập nhật mới cho phép chỉnh sửa linh hoạt hơn. Đợt cập nhật tới em sẽ gửi bản mới nhất cho Thầy/Cô nhé ạ!"
+      ]
+    },
+    {
+      "id": "curriculum_content_feedback",
+      "keywords": ["sai kiến thức", "thiếu bài", "không đúng sách", "chưa đúng chương trình", "sai nội dung", "thiếu tiết", "nhầm bộ sách"],
+      "issue_name": "Phản hồi sai lệch/thiếu nội dung giáo án (Nói khéo & ghi nhận theo sách Kết Nối Tri Thức)",
+      "instruction": "Khiêm tốn cảm ơn sự đóng góp chuyên môn của giáo viên, giải thích bên em đang chuẩn hóa 100% theo bộ sách Kết Nối Tri Thức Với Cuộc Sống và đã ghi vào sổ tay sửa đổi để cập nhật ngay.",
+      "sample_reply": [
+        "Dạ em cảm ơn Thầy/Cô rất nhiều vì đã tận tâm góp ý chuyên môn quý báu cho bên em ạ! 🙏",
+        "Bên em đang tập trung rà soát và chuẩn hóa toàn bộ theo chuẩn bộ sách Kết Nối Tri Thức Với Cuộc Sống. Em đã ghi chi tiết phần này vào sổ tay kỹ thuật để bổ sung ngay. Khi bản sửa hoàn thiện xong em sẽ chủ động gửi lại bản chuẩn nhất cho Thầy/Cô nhé ạ! ❤️"
+      ]
+    },
+    {
+      "id": "other_curriculum_books_inquiry",
+      "keywords": ["sách cánh diều", "chân trời sáng tạo", "bộ cánh diều", "bộ chân trời", "sách khác"],
+      "issue_name": "Khách hỏi về các bộ sách khác ngoài Kết Nối Tri Thức",
+      "instruction": "Giải thích khéo léo rằng bên em hiện đang tập trung chuyên sâu cho bộ sách Kết Nối Tri Thức Với Cuộc Sống để đảm bảo chất lượng bài giảng chuẩn nhất.",
+      "sample_reply": [
+        "Dạ hiện tại bên em đang tập trung chuyên sâu phát triển và hoàn thiện đồng bộ 100% cho bộ sách Kết Nối Tri Thức Với Cuộc Sống ạ 😊",
+        "Bộ giáo án Kết Nối Tri Thức này bên em có đầy đủ Video, AI, PPCT, Đề kiểm tra và Phiếu học tập chuẩn chỉ nhất cho Thầy/Cô ạ!"
+      ]
+    },
+    {
+      "id": "materials_inquiry_ppct_exam_worksheet",
+      "keywords": ["ppct", "phân phối chương trình", "đề kiểm tra", "trắc nghiệm", "phiếu học tập", "phiếu nhóm", "chuyên đề", "đề thi"],
+      "issue_name": "Khách hỏi xin tài liệu đi kèm (PPCT, Đề kiểm tra, Phiếu học tập)",
+      "instruction": "Nếu khách chưa nói rõ lớp mấy, hỏi lại: 'Dạ Thầy/Cô đang cần lấy tài liệu này của Lớp mấy ạ?'. Nếu đã có lớp, cung cấp đường dẫn tài liệu tương ứng.",
+      "sample_reply": [
+        "Dạ bên em có đầy đủ trọn bộ PPCT, Đề kiểm tra định kỳ, Phiếu học tập và Phiếu hoạt động nhóm theo sách Kết Nối Tri Thức ạ!",
+        "Dạ Thầy/Cô đang cần lấy tài liệu của Khối/Lớp mấy (Lớp 6, 7, 8, 9, 10, 11 hay 12) để em gửi link hoặc file ngay cho Thầy/Cô nhé ạ? ✨"
+      ]
+    }
+  ]
+}

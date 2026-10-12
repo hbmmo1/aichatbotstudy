@@ -1,0 +1,148 @@
+{
+  "default_curriculum_book": "Kết Nối Tri Thức Với Cuộc Sống",
+  "email_limit_per_link": 500,
+  "local_root_directory": "C:/GiaoAnLichSu",
+  "curriculum_levels": {
+    "THCS": {
+      "name": "Khối Trung Học Cơ Sở (Lớp 6 đến Lớp 9) - Bộ Kết Nối Tri Thức",
+      "drive_links": {
+        "primary": "https://drive.google.com/drive/folders/thcs-ketnoi-all-primary",
+        "backup_1": "https://drive.google.com/drive/folders/thcs-ketnoi-all-backup1",
+        "backup_2": "https://drive.google.com/drive/folders/thcs-ketnoi-all-backup2"
+      },
+      "drive_folder_id": "GOOGLE_DRIVE_FOLDER_ID_THCS",
+      "grades": ["6", "7", "8", "9"]
+    },
+    "THPT": {
+      "name": "Khối Trung Học Phổ Thông (Lớp 10 đến Lớp 12) - Bộ Kết Nối Tri Thức",
+      "drive_links": {
+        "primary": "https://drive.google.com/drive/folders/thpt-ketnoi-all-primary",
+        "backup_1": "https://drive.google.com/drive/folders/thpt-ketnoi-all-backup1",
+        "backup_2": "https://drive.google.com/drive/folders/thpt-ketnoi-all-backup2"
+      },
+      "drive_folder_id": "GOOGLE_DRIVE_FOLDER_ID_THPT",
+      "grades": ["10", "11", "12"]
+    }
+  },
+  "grade_details": {
+    "6": {
+      "title": "Lịch sử 6 - Kết Nối Tri Thức",
+      "drive_links": {
+        "primary": "https://drive.google.com/drive/folders/kntt-lop6-main",
+        "backup_1": "https://drive.google.com/drive/folders/kntt-lop6-backup1",
+        "backup_2": "https://drive.google.com/drive/folders/kntt-lop6-backup2"
+      },
+      "drive_folder_id": "GOOGLE_DRIVE_FOLDER_ID_LOP_6",
+      "local_folder": "C:/GiaoAnLichSu/Lop6_KetNoiTriThuc",
+      "materials": {
+        "ppct": "https://drive.google.com/drive/folders/kntt6-ppct",
+        "de_kiem_tra": "https://drive.google.com/drive/folders/kntt6-de-kt",
+        "phieu_hoc_tap": "https://drive.google.com/drive/folders/kntt6-phieu-ht",
+        "phieu_nhom": "https://drive.google.com/drive/folders/kntt6-phieu-nhom",
+        "chuyen_de": "https://drive.google.com/drive/folders/kntt6-chuyen-de"
+      }
+    },
+    "7": {
+      "title": "Lịch sử 7 - Kết Nối Tri Thức",
+      "drive_links": {
+        "primary": "https://drive.google.com/drive/folders/kntt-lop7-main",
+        "backup_1": "https://drive.google.com/drive/folders/kntt-lop7-backup1",
+        "backup_2": "https://drive.google.com/drive/folders/kntt-lop7-backup2"
+      },
+      "drive_folder_id": "GOOGLE_DRIVE_FOLDER_ID_LOP_7",
+      "local_folder": "C:/GiaoAnLichSu/Lop7_KetNoiTriThuc",
+      "materials": {
+        "ppct": "https://drive.google.com/drive/folders/kntt7-ppct",
+        "de_kiem_tra": "https://drive.google.com/drive/folders/kntt7-de-kt",
+        "phieu_hoc_tap": "https://drive.google.com/drive/folders/kntt7-phieu-ht",
+        "phieu_nhom": "https://drive.google.com/drive/folders/kntt7-phieu-nhom",
+        "chuyen_de": "https://drive.google.com/drive/folders/kntt7-chuyen-de"
+      }
+    },
+    "8": {
+      "title": "Lịch sử 8 - Kết Nối Tri Thức",
+      "drive_links": {
+        "primary": "https://drive.google.com/drive/folders/kntt-lop8-main",
+        "backup_1": "https://drive.google.com/drive/folders/kntt-lop8-backup1",
+        "backup_2": "https://drive.google.com/drive/folders/kntt-lop8-backup2"
+      },
+      "drive_folder_id": "GOOGLE_DRIVE_FOLDER_ID_LOP_8",
+      "local_folder": "C:/GiaoAnLichSu/Lop8_KetNoiTriThuc",
+      "materials": {
+        "ppct": "https://drive.google.com/drive/folders/kntt8-ppct",
+        "de_kiem_tra": "https://drive.google.com/drive/folders/kntt8-de-kt",
+        "phieu_hoc_tap": "https://drive.google.com/drive/folders/kntt8-phieu-ht",
+        "phieu_nhom": "https://drive.google.com/drive/folders/kntt8-phieu-nhom",
+        "chuyen_de": "https://drive.google.com/drive/folders/kntt8-chuyen-de"
+      }
+    },
+    "9": {
+      "title": "Lịch sử 9 - Kết Nối Tri Thức",
+      "drive_links": {
+        "primary": "https://drive.google.com/drive/folders/kntt-lop9-main",
+        "backup_1": "https://drive.google.com/drive/folders/kntt-lop9-backup1",
+        "backup_2": "https://drive.google.com/drive/folders/kntt-lop9-backup2"
+      },
+      "drive_folder_id": "GOOGLE_DRIVE_FOLDER_ID_LOP_9",
+      "local_folder": "C:/GiaoAnLichSu/Lop9_KetNoiTriThuc",
+      "materials": {
+        "ppct": "https://drive.google.com/drive/folders/kntt9-ppct",
+        "de_kiem_tra": "https://drive.google.com/drive/folders/kntt9-de-kt",
+        "phieu_hoc_tap": "https://drive.google.com/drive/folders/kntt9-phieu-ht",
+        "phieu_nhom": "https://drive.google.com/drive/folders/kntt9-phieu-nhom",
+        "chuyen_de": "https://drive.google.com/drive/folders/kntt9-chuyen-de"
+      }
+    },
+    "10": {
+      "title": "Lịch sử 10 - Kết Nối Tri Thức",
+      "drive_links": {
+        "primary": "https://drive.google.com/drive/folders/kntt-lop10-main",
+        "backup_1": "https://drive.google.com/drive/folders/kntt-lop10-backup1",
+        "backup_2": "https://drive.google.com/drive/folders/kntt-lop10-backup2"
+      },
+      "drive_folder_id": "GOOGLE_DRIVE_FOLDER_ID_LOP_10",
+      "local_folder": "C:/GiaoAnLichSu/Lop10_KetNoiTriThuc",
+      "materials": {
+        "ppct": "https://drive.google.com/drive/folders/kntt10-ppct",
+        "de_kiem_tra": "https://drive.google.com/drive/folders/kntt10-de-kt",
+        "phieu_hoc_tap": "https://drive.google.com/drive/folders/kntt10-phieu-ht",
+        "phieu_nhom": "https://drive.google.com/drive/folders/kntt10-phieu-nhom",
+        "chuyen_de": "https://drive.google.com/drive/folders/kntt10-chuyen-de"
+      }
+    },
+    "11": {
+      "title": "Lịch sử 11 - Kết Nối Tri Thức",
+      "drive_links": {
+        "primary": "https://drive.google.com/drive/folders/kntt-lop11-main",
+        "backup_1": "https://drive.google.com/drive/folders/kntt-lop11-backup1",
+        "backup_2": "https://drive.google.com/drive/folders/kntt-lop11-backup2"
+      },
+      "drive_folder_id": "GOOGLE_DRIVE_FOLDER_ID_LOP_11",
+      "local_folder": "C:/GiaoAnLichSu/Lop11_KetNoiTriThuc",
+      "materials": {
+        "ppct": "https://drive.google.com/drive/folders/kntt11-ppct",
+        "de_kiem_tra": "https://drive.google.com/drive/folders/kntt11-de-kt",
+        "phieu_hoc_tap": "https://drive.google.com/drive/folders/kntt11-phieu-ht",
+        "phieu_nhom": "https://drive.google.com/drive/folders/kntt11-phieu-nhom",
+        "chuyen_de": "https://drive.google.com/drive/folders/kntt11-chuyen-de"
+      }
+    },
+    "12": {
+      "title": "Lịch sử 12 - Kết Nối Tri Thức",
+      "drive_links": {
+        "primary": "https://drive.google.com/drive/folders/kntt-lop12-main",
+        "backup_1": "https://drive.google.com/drive/folders/kntt-lop12-backup1",
+        "backup_2": "https://drive.google.com/drive/folders/kntt-lop12-backup2"
+      },
+      "drive_folder_id": "GOOGLE_DRIVE_FOLDER_ID_LOP_12",
+      "local_folder": "C:/GiaoAnLichSu/Lop12_KetNoiTriThuc",
+      "materials": {
+        "ppct": "https://drive.google.com/drive/folders/kntt12-ppct",
+        "de_kiem_tra": "https://drive.google.com/drive/folders/kntt12-de-kt",
+        "phieu_hoc_tap": "https://drive.google.com/drive/folders/kntt12-phieu-ht",
+        "phieu_nhom": "https://drive.google.com/drive/folders/kntt12-phieu-nhom",
+        "chuyen_de": "https://drive.google.com/drive/folders/kntt12-chuyen-de"
+      }
+    }
+  }
+}

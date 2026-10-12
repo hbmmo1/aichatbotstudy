@@ -1,0 +1,59 @@
+# ==============================================================================
+# 1. THƯ MỤC BUILD, DIST & BACKUPS (.AGENTS) - FILE NẶNG & FILE NHỊ PHÂN
+# ==============================================================================
+.agents/backups/
+.agents/build/
+.agents/dist/
+.agents/autobackups/
+build/
+dist/
+autobackups/
+backups/
+
+# File nén & file thực thi nhị phân
+*.exe
+*.dll
+*.pyd
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.spec
+
+# ==============================================================================
+# 2. PYTHON COMPILED & CACHE
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ==============================================================================
+# 3. BẢO MẬT & DỮ LIỆU CỤC BỘ (LOCAL STORAGE, LOGS & SECRETS)
+# ==============================================================================
+.env
+.env.local
+storage/saved_login.json
+storage/database.sqlite*
+storage/*.db
+storage/*.sqlite
+storage/*.sqlite3
+storage/*.log
+storage/logs/
+*.log
+
+# ==============================================================================
+# 4. IDE, TRÌNH SOẠN THẢO & HỆ ĐIỀU HÀNH
+# ==============================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
+.DS_Store

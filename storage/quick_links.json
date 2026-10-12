@@ -1,0 +1,452 @@
+{
+  "Khối 6": [
+    {
+      "id": "link1",
+      "name": "Link 1 (Chính)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop6-main",
+      "checked": false
+    },
+    {
+      "id": "link2",
+      "name": "Link 2 (Dự phòng 1)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop6-backup1",
+      "checked": false
+    },
+    {
+      "id": "link3",
+      "name": "Link 3 (Dự phòng 2)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop6-backup2",
+      "checked": false
+    },
+    {
+      "id": "link4",
+      "name": "Link 4 (Dự phòng 3)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop6-backup3",
+      "checked": false
+    },
+    {
+      "id": "link5",
+      "name": "Link 5 (PPCT & Đề)",
+      "url": "https://drive.google.com/drive/folders/kntt6-ppct",
+      "checked": false
+    },
+    {
+      "id": "group1",
+      "name": "Link Group 1 (Zalo CSKH)",
+      "url": "https://zalo.me/g/history-lop6-group1",
+      "checked": false
+    },
+    {
+      "id": "group2",
+      "name": "Link Group 2 (Zalo Trao Đổi)",
+      "url": "https://zalo.me/g/history-lop6-group2",
+      "checked": false
+    },
+    {
+      "id": "group3",
+      "name": "Link Group 3 (Zalo Tài Liệu)",
+      "url": "https://zalo.me/g/history-lop6-group3",
+      "checked": false
+    }
+  ],
+  "Khối 7": [
+    {
+      "id": "link1",
+      "name": "Link 1 (Chính)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop7-main",
+      "checked": false
+    },
+    {
+      "id": "link2",
+      "name": "Link 2 (Dự phòng 1)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop7-backup1",
+      "checked": false
+    },
+    {
+      "id": "link3",
+      "name": "Link 3 (Dự phòng 2)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop7-backup2",
+      "checked": false
+    },
+    {
+      "id": "link4",
+      "name": "Link 4 (Dự phòng 3)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop7-backup3",
+      "checked": false
+    },
+    {
+      "id": "link5",
+      "name": "Link 5 (PPCT & Đề)",
+      "url": "https://drive.google.com/drive/folders/kntt7-ppct",
+      "checked": false
+    },
+    {
+      "id": "group1",
+      "name": "Link Group 1 (Zalo CSKH)",
+      "url": "https://zalo.me/g/history-lop7-group1",
+      "checked": false
+    },
+    {
+      "id": "group2",
+      "name": "Link Group 2 (Zalo Trao Đổi)",
+      "url": "https://zalo.me/g/history-lop7-group2",
+      "checked": false
+    },
+    {
+      "id": "group3",
+      "name": "Link Group 3 (Zalo Tài Liệu)",
+      "url": "https://zalo.me/g/history-lop7-group3",
+      "checked": false
+    }
+  ],
+  "Khối 8": [
+    {
+      "id": "link1",
+      "name": "Link 1 (Chính)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop8-main",
+      "checked": false
+    },
+    {
+      "id": "link2",
+      "name": "Link 2 (Dự phòng 1)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop8-backup1",
+      "checked": false
+    },
+    {
+      "id": "link3",
+      "name": "Link 3 (Dự phòng 2)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop8-backup2",
+      "checked": false
+    },
+    {
+      "id": "link4",
+      "name": "Link 4 (Dự phòng 3)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop8-backup3",
+      "checked": false
+    },
+    {
+      "id": "link5",
+      "name": "Link 5 (PPCT & Đề)",
+      "url": "https://drive.google.com/drive/folders/kntt8-ppct",
+      "checked": false
+    },
+    {
+      "id": "group1",
+      "name": "Link Group 1 (Zalo CSKH)",
+      "url": "https://zalo.me/g/history-lop8-group1",
+      "checked": false
+    },
+    {
+      "id": "group2",
+      "name": "Link Group 2 (Zalo Trao Đổi)",
+      "url": "https://zalo.me/g/history-lop8-group2",
+      "checked": false
+    },
+    {
+      "id": "group3",
+      "name": "Link Group 3 (Zalo Tài Liệu)",
+      "url": "https://zalo.me/g/history-lop8-group3",
+      "checked": false
+    }
+  ],
+  "Khối 9": [
+    {
+      "id": "link1",
+      "name": "Link 1 (Chính)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop9-main",
+      "checked": false
+    },
+    {
+      "id": "link2",
+      "name": "Link 2 (Dự phòng 1)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop9-backup1",
+      "checked": false
+    },
+    {
+      "id": "link3",
+      "name": "Link 3 (Dự phòng 2)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop9-backup2",
+      "checked": false
+    },
+    {
+      "id": "link4",
+      "name": "Link 4 (Dự phòng 3)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop9-backup3",
+      "checked": false
+    },
+    {
+      "id": "link5",
+      "name": "Link 5 (PPCT & Đề)",
+      "url": "https://drive.google.com/drive/folders/kntt9-ppct",
+      "checked": false
+    },
+    {
+      "id": "group1",
+      "name": "Link Group 1 (Zalo CSKH)",
+      "url": "https://zalo.me/g/history-lop9-group1",
+      "checked": false
+    },
+    {
+      "id": "group2",
+      "name": "Link Group 2 (Zalo Trao Đổi)",
+      "url": "https://zalo.me/g/history-lop9-group2",
+      "checked": false
+    },
+    {
+      "id": "group3",
+      "name": "Link Group 3 (Zalo Tài Liệu)",
+      "url": "https://zalo.me/g/history-lop9-group3",
+      "checked": false
+    }
+  ],
+  "Khối 10": [
+    {
+      "id": "link1",
+      "name": "Link 1 (Chính)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop10-main",
+      "checked": false
+    },
+    {
+      "id": "link2",
+      "name": "Link 2 (Dự phòng 1)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop10-backup1",
+      "checked": false
+    },
+    {
+      "id": "link3",
+      "name": "Link 3 (Dự phòng 2)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop10-backup2",
+      "checked": false
+    },
+    {
+      "id": "link4",
+      "name": "Link 4 (Dự phòng 3)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop10-backup3",
+      "checked": false
+    },
+    {
+      "id": "link5",
+      "name": "Link 5 (PPCT & Đề)",
+      "url": "https://drive.google.com/drive/folders/kntt10-ppct",
+      "checked": false
+    },
+    {
+      "id": "group1",
+      "name": "Link Group 1 (Zalo CSKH)",
+      "url": "https://zalo.me/g/history-lop10-group1",
+      "checked": false
+    },
+    {
+      "id": "group2",
+      "name": "Link Group 2 (Zalo Trao Đổi)",
+      "url": "https://zalo.me/g/history-lop10-group2",
+      "checked": false
+    },
+    {
+      "id": "group3",
+      "name": "Link Group 3 (Zalo Tài Liệu)",
+      "url": "https://zalo.me/g/history-lop10-group3",
+      "checked": false
+    }
+  ],
+  "Khối 11": [
+    {
+      "id": "link1",
+      "name": "Link 1 (Chính)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop11-main",
+      "checked": false
+    },
+    {
+      "id": "link2",
+      "name": "Link 2 (Dự phòng 1)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop11-backup1",
+      "checked": false
+    },
+    {
+      "id": "link3",
+      "name": "Link 3 (Dự phòng 2)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop11-backup2",
+      "checked": false
+    },
+    {
+      "id": "link4",
+      "name": "Link 4 (Dự phòng 3)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop11-backup3",
+      "checked": false
+    },
+    {
+      "id": "link5",
+      "name": "Link 5 (PPCT & Đề)",
+      "url": "https://drive.google.com/drive/folders/kntt11-ppct",
+      "checked": false
+    },
+    {
+      "id": "group1",
+      "name": "Link Group 1 (Zalo CSKH)",
+      "url": "https://zalo.me/g/history-lop11-group1",
+      "checked": false
+    },
+    {
+      "id": "group2",
+      "name": "Link Group 2 (Zalo Trao Đổi)",
+      "url": "https://zalo.me/g/history-lop11-group2",
+      "checked": false
+    },
+    {
+      "id": "group3",
+      "name": "Link Group 3 (Zalo Tài Liệu)",
+      "url": "https://zalo.me/g/history-lop11-group3",
+      "checked": false
+    }
+  ],
+  "Khối 12": [
+    {
+      "id": "link1",
+      "name": "Link 1 (Chính)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop12-main",
+      "checked": false
+    },
+    {
+      "id": "link2",
+      "name": "Link 2 (Dự phòng 1)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop12-backup1",
+      "checked": false
+    },
+    {
+      "id": "link3",
+      "name": "Link 3 (Dự phòng 2)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop12-backup2",
+      "checked": false
+    },
+    {
+      "id": "link4",
+      "name": "Link 4 (Dự phòng 3)",
+      "url": "https://drive.google.com/drive/folders/kntt-lop12-backup3",
+      "checked": false
+    },
+    {
+      "id": "link5",
+      "name": "Link 5 (PPCT & Đề)",
+      "url": "https://drive.google.com/drive/folders/kntt12-ppct",
+      "checked": false
+    },
+    {
+      "id": "group1",
+      "name": "Link Group 1 (Zalo CSKH)",
+      "url": "https://zalo.me/g/history-lop12-group1",
+      "checked": false
+    },
+    {
+      "id": "group2",
+      "name": "Link Group 2 (Zalo Trao Đổi)",
+      "url": "https://zalo.me/g/history-lop12-group2",
+      "checked": false
+    },
+    {
+      "id": "group3",
+      "name": "Link Group 3 (Zalo Tài Liệu)",
+      "url": "https://zalo.me/g/history-lop12-group3",
+      "checked": false
+    }
+  ],
+  "Link THCS": [
+    {
+      "id": "link1",
+      "name": "Link 1 (Toàn Bộ THCS 6-9)",
+      "url": "https://drive.google.com/drive/folders/thcs-ketnoi-all-primary",
+      "checked": false
+    },
+    {
+      "id": "link2",
+      "name": "Link 2 (Dự phòng 1)",
+      "url": "https://drive.google.com/drive/folders/thcs-ketnoi-all-backup1",
+      "checked": false
+    },
+    {
+      "id": "link3",
+      "name": "Link 3 (Dự phòng 2)",
+      "url": "https://drive.google.com/drive/folders/thcs-ketnoi-all-backup2",
+      "checked": false
+    },
+    {
+      "id": "link4",
+      "name": "Link 4 (Dự phòng 3)",
+      "url": "https://drive.google.com/drive/folders/thcs-ketnoi-all-backup3",
+      "checked": false
+    },
+    {
+      "id": "link5",
+      "name": "Link 5 (Kho Tài Liệu THCS)",
+      "url": "https://drive.google.com/drive/folders/thcs-ketnoi-all-docs",
+      "checked": false
+    },
+    {
+      "id": "group1",
+      "name": "Link Group 1 (Nhóm Zalo THCS)",
+      "url": "https://zalo.me/g/history-thcs-group1",
+      "checked": false
+    },
+    {
+      "id": "group2",
+      "name": "Link Group 2 (Nhóm Zalo Giáo Viên THCS)",
+      "url": "https://zalo.me/g/history-thcs-group2",
+      "checked": false
+    },
+    {
+      "id": "group3",
+      "name": "Link Group 3 (Nhóm Zalo Giáo Án THCS)",
+      "url": "https://zalo.me/g/history-thcs-group3",
+      "checked": false
+    }
+  ],
+  "Link THPT": [
+    {
+      "id": "link1",
+      "name": "Link 1 (Toàn Bộ THPT 10-12)",
+      "url": "https://drive.google.com/drive/folders/thpt-ketnoi-all-primary",
+      "checked": false
+    },
+    {
+      "id": "link2",
+      "name": "Link 2 (Dự phòng 1)",
+      "url": "https://drive.google.com/drive/folders/thpt-ketnoi-all-backup1",
+      "checked": false
+    },
+    {
+      "id": "link3",
+      "name": "Link 3 (Dự phòng 2)",
+      "url": "https://drive.google.com/drive/folders/thpt-ketnoi-all-backup2",
+      "checked": false
+    },
+    {
+      "id": "link4",
+      "name": "Link 4 (Dự phòng 3)",
+      "url": "https://drive.google.com/drive/folders/thpt-ketnoi-all-backup3",
+      "checked": false
+    },
+    {
+      "id": "link5",
+      "name": "Link 5 (Kho Tài Liệu THPT)",
+      "url": "https://drive.google.com/drive/folders/thpt-ketnoi-all-docs",
+      "checked": false
+    },
+    {
+      "id": "group1",
+      "name": "Link Group 1 (Nhóm Zalo THPT)",
+      "url": "https://zalo.me/g/history-thpt-group1",
+      "checked": false
+    },
+    {
+      "id": "group2",
+      "name": "Link Group 2 (Nhóm Zalo Giáo Viên THPT)",
+      "url": "https://zalo.me/g/history-thpt-group2",
+      "checked": false
+    },
+    {
+      "id": "group3",
+      "name": "Link Group 3 (Nhóm Zalo Giáo Án THPT)",
+      "url": "https://zalo.me/g/history-thpt-group3",
+      "checked": false
+    }
+  ]
+}
